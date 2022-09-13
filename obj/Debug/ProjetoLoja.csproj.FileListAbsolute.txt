@@ -1,0 +1,33 @@
+D:\bibi 2° ds\DS\ProjetoLoja\bin\Debug\ProjetoLoja.exe.config
+D:\bibi 2° ds\DS\ProjetoLoja\bin\Debug\ProjetoLoja.exe
+D:\bibi 2° ds\DS\ProjetoLoja\bin\Debug\ProjetoLoja.pdb
+D:\bibi 2° ds\DS\ProjetoLoja\obj\Debug\ProjetoLoja.csproj.AssemblyReference.cache
+D:\bibi 2° ds\DS\ProjetoLoja\obj\Debug\ProjetoLoja.csproj.SuggestedBindingRedirects.cache
+D:\bibi 2° ds\DS\ProjetoLoja\obj\Debug\ProjetoLoja.Form1.resources
+D:\bibi 2° ds\DS\ProjetoLoja\obj\Debug\ProjetoLoja.Properties.Resources.resources
+D:\bibi 2° ds\DS\ProjetoLoja\obj\Debug\ProjetoLoja.csproj.GenerateResource.cache
+D:\bibi 2° ds\DS\ProjetoLoja\obj\Debug\ProjetoLoja.csproj.CoreCompileInputs.cache
+D:\bibi 2° ds\DS\ProjetoLoja\obj\Debug\ProjetoLoja.exe
+D:\bibi 2° ds\DS\ProjetoLoja\obj\Debug\ProjetoLoja.pdb
+E:\projetinho de nota em ds\ProjetoLoja\bin\Debug\ProjetoLoja.exe.config
+E:\projetinho de nota em ds\ProjetoLoja\bin\Debug\ProjetoLoja.exe
+E:\projetinho de nota em ds\ProjetoLoja\bin\Debug\ProjetoLoja.pdb
+E:\projetinho de nota em ds\ProjetoLoja\obj\Debug\ProjetoLoja.csproj.AssemblyReference.cache
+E:\projetinho de nota em ds\ProjetoLoja\obj\Debug\ProjetoLoja.csproj.SuggestedBindingRedirects.cache
+E:\projetinho de nota em ds\ProjetoLoja\obj\Debug\ProjetoLoja.Form1.resources
+E:\projetinho de nota em ds\ProjetoLoja\obj\Debug\ProjetoLoja.Properties.Resources.resources
+E:\projetinho de nota em ds\ProjetoLoja\obj\Debug\ProjetoLoja.csproj.GenerateResource.cache
+E:\projetinho de nota em ds\ProjetoLoja\obj\Debug\ProjetoLoja.csproj.CoreCompileInputs.cache
+E:\projetinho de nota em ds\ProjetoLoja\obj\Debug\ProjetoLoja.exe
+E:\projetinho de nota em ds\ProjetoLoja\obj\Debug\ProjetoLoja.pdb
+D:\Bibi 2°DS\DS\projetinho de nota em ds\ProjetoLoja\bin\Debug\ProjetoLoja.exe.config
+D:\Bibi 2°DS\DS\projetinho de nota em ds\ProjetoLoja\bin\Debug\ProjetoLoja.exe
+D:\Bibi 2°DS\DS\projetinho de nota em ds\ProjetoLoja\bin\Debug\ProjetoLoja.pdb
+D:\Bibi 2°DS\DS\projetinho de nota em ds\ProjetoLoja\obj\Debug\ProjetoLoja.csproj.AssemblyReference.cache
+D:\Bibi 2°DS\DS\projetinho de nota em ds\ProjetoLoja\obj\Debug\ProjetoLoja.csproj.SuggestedBindingRedirects.cache
+D:\Bibi 2°DS\DS\projetinho de nota em ds\ProjetoLoja\obj\Debug\ProjetoLoja.Form1.resources
+D:\Bibi 2°DS\DS\projetinho de nota em ds\ProjetoLoja\obj\Debug\ProjetoLoja.Properties.Resources.resources
+D:\Bibi 2°DS\DS\projetinho de nota em ds\ProjetoLoja\obj\Debug\ProjetoLoja.csproj.GenerateResource.cache
+D:\Bibi 2°DS\DS\projetinho de nota em ds\ProjetoLoja\obj\Debug\ProjetoLoja.csproj.CoreCompileInputs.cache
+D:\Bibi 2°DS\DS\projetinho de nota em ds\ProjetoLoja\obj\Debug\ProjetoLoja.exe
+D:\Bibi 2°DS\DS\projetinho de nota em ds\ProjetoLoja\obj\Debug\ProjetoLoja.pdb
